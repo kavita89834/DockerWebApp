@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\mphasis\phase-3\DockerWebApp\DockerWebApp\obj\Release\net6.0\PubTmp\Out\DockerWebApp.exe
+C:\Users\HP\Documents\mphasis\phase-3\DockerWebApp\DockerWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\HP\Documents\mphasis\phase-3\DockerWebApp\DockerWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\HP\Documents\mphasis\phase-3\DockerWebApp\DockerWebApp\obj\Release\net6.0\PubTmp\Out\DockerWebApp.dll
+C:\Users\HP\Documents\mphasis\phase-3\DockerWebApp\DockerWebApp\obj\Release\net6.0\PubTmp\Out\DockerWebApp.deps.json
+C:\Users\HP\Documents\mphasis\phase-3\DockerWebApp\DockerWebApp\obj\Release\net6.0\PubTmp\Out\DockerWebApp.runtimeconfig.json
+C:\Users\HP\Documents\mphasis\phase-3\DockerWebApp\DockerWebApp\obj\Release\net6.0\PubTmp\Out\DockerWebApp.pdb
